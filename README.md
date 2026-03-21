@@ -1,16 +1,30 @@
-## Hi there 👋
+#### Welcome to my GitHub space! 👋🏻
 
-<!--
-**NjjSouza/NjjSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="greeting.gif" width="250" alt = " ">
+</p>
 
-Here are some ideas to get you started:
+###### ▸ Academic Background and Research ✿
+- **Bachelor's Degree in Computer Engineering** | **Inatel** (National Institute of Telecommunications). 
+- **Undergraduate Research Assistant:** Focus on problem-solving, best development practices, and applied software engineering. 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### ▸ Extracurricular Activities ✿ 
+Participation in hands-on and collaborative learning ecosystems: 
+- **Competitive Programming:** Development of logical reasoning and complex problem-solving through marathons (C++). 
+- **Game Development:** Exploration of system design and game logic in academic groups. 
+- **Education and Inclusion:** History of contributions to projects focused on technological literacy and computer science education.
+---
+
+###### ▸ Technological Tools ✿
+| Domain | Main Technologies and Tools |
+| :--- | :--- |
+| **Languages** | `C++`, `PHP`, `JavaScript`, `C#`, `SQL`, `C` |
+| **Web & Frameworks** | `React.js`, `Node.js`, `HTML5/CSS3` |
+| **Systems** | `Arduino SDK`, `Git/GitHub`, `Visual Studio` |
+| **Areas of Study** | `Software Engineering`, `IoT`, `Embedded Systems` |
+--- 
+
+###### ▸ Connections ✿
+- [Lattes Curriculum](https://lattes.cnpq.br/9493222022795408) 
+- E-mail: anajjdsouza@gmail.com
