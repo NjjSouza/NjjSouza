@@ -5,7 +5,7 @@
 </p>
 
 ###### ▸ Academic Background and Research ✿
-- **Bachelor's Degree in Computer Engineering** | **Inatel** (National Institute of Telecommunications). 
+- **Bachelor's Degree in Software Engineering** | **Inatel** (National Institute of Telecommunications). 
 - **Undergraduate Research Assistant:** Focus on problem-solving, best development practices, and applied software engineering. 
 ---
 
