@@ -1,3 +1,9 @@
+# Welcome to my GitHub space! 👋🏻
+
+<p align="left">
+  <img src="gif.gif" width="100%" alt="Welcome Banner">
+</p>
+
 ### ▸ About Me ✿
 
 I am a Software Engineering student at Inatel with a strong interest in building reliable, maintainable, and user-focused software.
