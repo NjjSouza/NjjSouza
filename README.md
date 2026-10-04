@@ -1,38 +1,52 @@
-# Welcome to my GitHub space! 👋🏻
+### ‎ >_ Welcome to my GitHub space!
 
 <p align="left">
-  <img src="gif.gif" width="100%" alt="Welcome Banner">
+  <img src="foxx.gif" width="100%" alt="Welcome Banner">
 </p>
 
-### ▸ About Me ✿
+> **Legend:** ☑ `done` &nbsp;•&nbsp; ☐ `in progress`
 
-I am a Software Engineering student at Inatel with a strong interest in building reliable, maintainable, and user-focused software.
+### ✉︎ About Me
 
-I have practical experience developing academic, research, and personal projects, working with modern web technologies, databases, interactive applications, and collaborative software development.
+`$ git log --format=%s -- about/`
 
-Currently, I am strengthening my knowledge of Software Engineering and Information Security, with a focus on software architecture, code quality, maintainability, and secure development.
-
----
-
-### ▸ Experience and Education ✿
-
-* **Software Engineering (In Progress)** | **Inatel** - Undergraduate Research Scholar working on **Inatelligent**, a gamified educational web application.
-* **Ceci** - Collaborative project developed for the **2026 Technology Fair**, focused on inclusive education for the elderly.
-* **Game Development** - Collaborative experience with **C# and Unity**, including 2D and 3D projects and game jams.
-* **Competitive Programming** - Experience with **C++**, algorithms, data structures, and problem-solving.
-* **.NET Bootcamp with an AI Focus** | **DIO + Deal Group** - 111-hour program covering **C#, .NET, OOP, Entity Framework Core, NuGet, Git, and GitHub**.
-
-### ▸ Currently Learning ✿
-
-* **Python**, particularly for Cybersecurity.
-* **Web & Application Security**, including authentication, authorization, secure development practices, and common vulnerabilities.
-* **Backend Engineering**, with a focus on JavaScript/Node.js and API development.
-* **Software Engineering**, especially architecture, code quality, and maintainability.
-* **Docker and development infrastructure**.
+- [x] `feat(profile)` Software Engineering student at **Inatel**
+- [x] `feat(about)` building reliable, maintainable, and user-focused software
+- [x] `feat(about)` practical experience with academic, research, and personal projects
+- [x] `feat(about)` modern web technologies, databases, interactive applications, and collaborative development
+- [x] `wip(focus)` focus on software architecture, code quality, maintainability, and secure development
 
 ---
 
-### ▸ Connections ✿
+### ✉︎ Experience and Education
+
+`$ git log --format=%s -- experience/`
+
+- [ ] `wip(inatel)` Undergraduate Research Scholar working on **Inatelligent**, a gamified educational web application
+- [x] `feat(ceci)` **Ceci** - Collaborative project developed for **Fetin (Technology Fair) 2026**, focused on inclusive education for adults and the elderly
+- [x] `feat(gamedev)` **Game Development** - Collaborative experience with different game engines
+- [x] `feat(cp)` **Competitive Programming** - Experience with **C++**, algorithms, data structures, and problem-solving
+- [x] `feat(dio)` **.NET Bootcamp with an AI Focus** | **DIO + Deal Group** - 111-hour program covering **C#, .NET, OOP, Entity Framework Core, NuGet, Git, and GitHub**
+
+---
+
+### ✉︎ Connections
+
+`$ git remote -v`
 
 * [Lattes Curriculum](https://lattes.cnpq.br/9493222022795408)
+* Itch.io: https://njj21.itch.io/
 * E-mail: [anajjdsouza@gmail.com](mailto:anajjdsouza@gmail.com)
+
+---
+
+### ✉︎ Top Languages
+
+`$ cloc .`
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NjjSouza&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjjSouza&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top languages used in my GitHub repositories">
+  </picture>
+</p>
