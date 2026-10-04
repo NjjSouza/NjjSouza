@@ -1,7 +1,7 @@
 ### ‎ >_ Welcome to my GitHub space!
 
 <p align="left">
-  <img src="foxx.gif" width="100%" alt="Welcome Banner">
+  <img src="bzz.gif" width="100%" alt="Welcome Banner">
 </p>
 
 > **Legend:** ☑ `done` &nbsp;•&nbsp; ☐ `in progress`
